@@ -1,4 +1,4 @@
-# AI-Chess-Project
+# AI Chess Project
 
 Using algorithms, an AI chess board which uses the scoring technique to make its moves.
 
